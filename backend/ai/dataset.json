@@ -1,0 +1,1922 @@
+[
+  {
+    "text": "Tariff rate applied is incorrect. I am being charged commercial rates for a residential connection.",
+    "category": "Billing Issue",
+    "priority": "Low",
+    "title": "Tariff rate applied is"
+  },
+  {
+    "text": "The street light is on during the daytime, wasting public electricity.",
+    "category": "Street Light Fault",
+    "priority": "Low",
+    "title": "The street light is"
+  },
+  {
+    "text": "Burning smell coming from the meter cabin in the basement.",
+    "category": "Meter Problem",
+    "priority": "Medium",
+    "title": "Burning smell coming from"
+  },
+  {
+    "text": "Street light in front of house #153 is off for the last 5 days. Street is dark.",
+    "category": "Street Light Fault",
+    "priority": "Low",
+    "title": "Street light in front"
+  },
+  {
+    "text": "Loud blast heard and smoke coming out of the transformer pole.",
+    "category": "Transformer Fault",
+    "priority": "Critical",
+    "title": "Loud blast heard and"
+  },
+  {
+    "text": "Received abnormally high electricity bill of Rs 18426 which is triple my typical charge.",
+    "category": "Billing Issue",
+    "priority": "Low",
+    "title": "Received abnormally high electricity"
+  },
+  {
+    "text": "Voltage is fluctuating rapidly. Unstable power is harming our household appliances.",
+    "category": "Voltage Fluctuation",
+    "priority": "Medium",
+    "title": "Voltage is fluctuating rapidly"
+  },
+  {
+    "text": "Multiple street lights are non-functional on main road of Adyar, Chennai.",
+    "category": "Street Light Fault",
+    "priority": "Low",
+    "title": "Multiple street lights are"
+  },
+  {
+    "text": "Transformer blowout occurred. The entire street is without power.",
+    "category": "Transformer Fault",
+    "priority": "Critical",
+    "title": "Transformer blowout occurred the"
+  },
+  {
+    "text": "Loud blast heard and smoke coming out of the transformer pole.",
+    "category": "Transformer Fault",
+    "priority": "Critical",
+    "title": "Loud blast heard and"
+  },
+  {
+    "text": "Fire observed in the overhead transformer box in Indiranagar, Bangalore. Please isolate immediately.",
+    "category": "Transformer Fault",
+    "priority": "Critical",
+    "title": "Fire observed in the"
+  },
+  {
+    "text": "Heavy smoke and burning smell coming from the local distribution transformer.",
+    "category": "Transformer Fault",
+    "priority": "Critical",
+    "title": "Heavy smoke and burning"
+  },
+  {
+    "text": "Frequent power cuts in Indiranagar, Bangalore are disrupting work. Outage is lasting for hours.",
+    "category": "Power Outage",
+    "priority": "High",
+    "title": "Frequent power cuts in"
+  },
+  {
+    "text": "Frequent power cuts in Ghatkopar, Mumbai are disrupting work. Outage is lasting for hours.",
+    "category": "Power Outage",
+    "priority": "High",
+    "title": "Frequent power cuts in"
+  },
+  {
+    "text": "Payment done via UPI failed to update on the portal but money was deducted.",
+    "category": "Billing Issue",
+    "priority": "Low",
+    "title": "Payment done via upi"
+  },
+  {
+    "text": "Transformer oil leakage observed. It is dripping continuously and presents a safety hazard.",
+    "category": "Transformer Fault",
+    "priority": "Critical",
+    "title": "Transformer oil leakage observed"
+  },
+  {
+    "text": "Street light in front of house #26 is off for the last 5 days. Street is dark.",
+    "category": "Street Light Fault",
+    "priority": "Medium",
+    "title": "Street light in front"
+  },
+  {
+    "text": "Transformer sparking and making loud crackling noises near Civil Lines, Delhi.",
+    "category": "Transformer Fault",
+    "priority": "Critical",
+    "title": "Transformer sparking and making"
+  },
+  {
+    "text": "The meter disk is spinning extremely fast even when main switch is off.",
+    "category": "Meter Problem",
+    "priority": "Medium",
+    "title": "The meter disk is"
+  },
+  {
+    "text": "Complete blackout in our sector. Streetlights and houses have no power.",
+    "category": "Power Outage",
+    "priority": "High",
+    "title": "Complete blackout in our"
+  },
+  {
+    "text": "No power supply in Adyar, Chennai for the last 2 hours. Please check the line fault.",
+    "category": "Power Outage",
+    "priority": "High",
+    "title": "No power supply in"
+  },
+  {
+    "text": "Incorrect reading on my bill. The bill says 1876 units but my meter shows much less.",
+    "category": "Billing Issue",
+    "priority": "Low",
+    "title": "Incorrect reading on my"
+  },
+  {
+    "text": "Total power outage reported in Dwarka, Delhi. No electricity since 10 hours.",
+    "category": "Power Outage",
+    "priority": "High",
+    "title": "Total power outage reported"
+  },
+  {
+    "text": "Flickering sodium street light is making humming sound.",
+    "category": "Street Light Fault",
+    "priority": "Low",
+    "title": "Flickering sodium street light"
+  },
+  {
+    "text": "The meter disk is spinning extremely fast even when main switch is off.",
+    "category": "Meter Problem",
+    "priority": "Medium",
+    "title": "The meter disk is"
+  },
+  {
+    "text": "Smart meter displaying error code COMM-FAIL and connection status is red.",
+    "category": "Meter Problem",
+    "priority": "High",
+    "title": "Smart meter displaying error"
+  },
+  {
+    "text": "Smart meter displaying error code Err-88 and connection status is red.",
+    "category": "Meter Problem",
+    "priority": "Medium",
+    "title": "Smart meter displaying error"
+  },
+  {
+    "text": "Received abnormally high electricity bill of Rs 24830 which is triple my typical charge.",
+    "category": "Billing Issue",
+    "priority": "Medium",
+    "title": "Received abnormally high electricity"
+  },
+  {
+    "text": "No power supply in Indiranagar, Bangalore for the last 1 hours. Please check the line fault.",
+    "category": "Power Outage",
+    "priority": "High",
+    "title": "No power supply in"
+  },
+  {
+    "text": "Multiple street lights are non-functional on main road of Sector 62, Noida.",
+    "category": "Street Light Fault",
+    "priority": "Low",
+    "title": "Multiple street lights are"
+  },
+  {
+    "text": "Frequent voltage fluctuations are causing our LED lights to flicker continuously.",
+    "category": "Voltage Fluctuation",
+    "priority": "Medium",
+    "title": "Frequent voltage fluctuations are"
+  },
+  {
+    "text": "Flickering sodium street light is making humming sound.",
+    "category": "Street Light Fault",
+    "priority": "Low",
+    "title": "Flickering sodium street light"
+  },
+  {
+    "text": "Fire observed in the overhead transformer box in Jubilee Hills, Hyderabad. Please isolate immediately.",
+    "category": "Transformer Fault",
+    "priority": "Critical",
+    "title": "Fire observed in the"
+  },
+  {
+    "text": "Incorrect reading on my bill. The bill says 901 units but my meter shows much less.",
+    "category": "Billing Issue",
+    "priority": "Low",
+    "title": "Incorrect reading on my"
+  },
+  {
+    "text": "Meter is sparking when load is increased. Needs urgent check.",
+    "category": "Meter Problem",
+    "priority": "Medium",
+    "title": "Meter is sparking when"
+  },
+  {
+    "text": "Meter is sparking when load is increased. Needs urgent check.",
+    "category": "Meter Problem",
+    "priority": "Medium",
+    "title": "Meter is sparking when"
+  },
+  {
+    "text": "Frequent voltage fluctuations are causing our LED lights to flicker continuously.",
+    "category": "Voltage Fluctuation",
+    "priority": "Medium",
+    "title": "Frequent voltage fluctuations are"
+  },
+  {
+    "text": "Heavy smoke and burning smell coming from the local distribution transformer.",
+    "category": "Transformer Fault",
+    "priority": "Critical",
+    "title": "Heavy smoke and burning"
+  },
+  {
+    "text": "Bill not received for the last two months, but now received a heavy penalty charge.",
+    "category": "Billing Issue",
+    "priority": "Low",
+    "title": "Bill not received for"
+  },
+  {
+    "text": "Tariff rate applied is incorrect. I am being charged commercial rates for a residential connection.",
+    "category": "Billing Issue",
+    "priority": "Medium",
+    "title": "Tariff rate applied is"
+  },
+  {
+    "text": "Street light pole is leaning dangerously and wires are dangling.",
+    "category": "Street Light Fault",
+    "priority": "Low",
+    "title": "Street light pole is"
+  },
+  {
+    "text": "Street light pole is leaning dangerously and wires are dangling.",
+    "category": "Street Light Fault",
+    "priority": "Low",
+    "title": "Street light pole is"
+  },
+  {
+    "text": "Transformer blowout occurred. The entire street is without power.",
+    "category": "Transformer Fault",
+    "priority": "Critical",
+    "title": "Transformer blowout occurred the"
+  },
+  {
+    "text": "No power supply in Dwarka, Delhi for the last 9 hours. Please check the line fault.",
+    "category": "Power Outage",
+    "priority": "High",
+    "title": "No power supply in"
+  },
+  {
+    "text": "Multiple street lights are non-functional on main road of Kothrud, Pune.",
+    "category": "Street Light Fault",
+    "priority": "Low",
+    "title": "Multiple street lights are"
+  },
+  {
+    "text": "Phase failure in my house. Only half of the house has light, rest is blacked out.",
+    "category": "Power Outage",
+    "priority": "High",
+    "title": "Phase failure in my"
+  },
+  {
+    "text": "Extremely low voltage in Civil Lines, Delhi. Appliances like AC and fridge cannot start.",
+    "category": "Voltage Fluctuation",
+    "priority": "Medium",
+    "title": "Extremely low voltage in"
+  },
+  {
+    "text": "Electricity supply went off suddenly after a small sound from the substation. Please restore it.",
+    "category": "Power Outage",
+    "priority": "High",
+    "title": "Electricity supply went off"
+  },
+  {
+    "text": "Transformer oil leakage observed. It is dripping continuously and presents a safety hazard.",
+    "category": "Transformer Fault",
+    "priority": "Critical",
+    "title": "Transformer oil leakage observed"
+  },
+  {
+    "text": "Bill not received for the last two months, but now received a heavy penalty charge.",
+    "category": "Billing Issue",
+    "priority": "Low",
+    "title": "Bill not received for"
+  },
+  {
+    "text": "Burning smell coming from the meter cabin in the basement.",
+    "category": "Meter Problem",
+    "priority": "Medium",
+    "title": "Burning smell coming from"
+  },
+  {
+    "text": "Street light in front of house #52 is off for the last 5 days. Street is dark.",
+    "category": "Street Light Fault",
+    "priority": "Low",
+    "title": "Street light in front"
+  },
+  {
+    "text": "Street light in front of house #77 is off for the last 5 days. Street is dark.",
+    "category": "Street Light Fault",
+    "priority": "Low",
+    "title": "Street light in front"
+  },
+  {
+    "text": "Smart meter displaying error code E-03 and connection status is red.",
+    "category": "Meter Problem",
+    "priority": "Medium",
+    "title": "Smart meter displaying error"
+  },
+  {
+    "text": "Meter cover is broken and terminals are exposed. Safety risk for children.",
+    "category": "Meter Problem",
+    "priority": "Medium",
+    "title": "Meter cover is broken"
+  },
+  {
+    "text": "Payment done via UPI failed to update on the portal but money was deducted.",
+    "category": "Billing Issue",
+    "priority": "Low",
+    "title": "Payment done via upi"
+  },
+  {
+    "text": "Payment done via UPI failed to update on the portal but money was deducted.",
+    "category": "Billing Issue",
+    "priority": "Low",
+    "title": "Payment done via upi"
+  },
+  {
+    "text": "Fire observed in the overhead transformer box in Civil Lines, Delhi. Please isolate immediately.",
+    "category": "Transformer Fault",
+    "priority": "Critical",
+    "title": "Fire observed in the"
+  },
+  {
+    "text": "No power supply in Adyar, Chennai for the last 8 hours. Please check the line fault.",
+    "category": "Power Outage",
+    "priority": "High",
+    "title": "No power supply in"
+  },
+  {
+    "text": "Electricity supply went off suddenly after a small sound from the substation. Please restore it.",
+    "category": "Power Outage",
+    "priority": "High",
+    "title": "Electricity supply went off"
+  },
+  {
+    "text": "Double billing error on my account. Payment made online is not credited.",
+    "category": "Billing Issue",
+    "priority": "Low",
+    "title": "Double billing error on"
+  },
+  {
+    "text": "Phase failure in my house. Only half of the house has light, rest is blacked out.",
+    "category": "Power Outage",
+    "priority": "High",
+    "title": "Phase failure in my"
+  },
+  {
+    "text": "Total power outage reported in Ghatkopar, Mumbai. No electricity since 2 hours.",
+    "category": "Power Outage",
+    "priority": "High",
+    "title": "Total power outage reported"
+  },
+  {
+    "text": "Bill not received for the last two months, but now received a heavy penalty charge.",
+    "category": "Billing Issue",
+    "priority": "Low",
+    "title": "Bill not received for"
+  },
+  {
+    "text": "Street light pole is leaning dangerously and wires are dangling.",
+    "category": "Street Light Fault",
+    "priority": "Low",
+    "title": "Street light pole is"
+  },
+  {
+    "text": "Flickering sodium street light is making humming sound.",
+    "category": "Street Light Fault",
+    "priority": "Low",
+    "title": "Flickering sodium street light"
+  },
+  {
+    "text": "Frequent power cuts in Dwarka, Delhi are disrupting work. Outage is lasting for hours.",
+    "category": "Power Outage",
+    "priority": "High",
+    "title": "Frequent power cuts in"
+  },
+  {
+    "text": "The meter disk is spinning extremely fast even when main switch is off.",
+    "category": "Meter Problem",
+    "priority": "Medium",
+    "title": "The meter disk is"
+  },
+  {
+    "text": "Transformer sparking and making loud crackling noises near Sector 12, Noida.",
+    "category": "Transformer Fault",
+    "priority": "Critical",
+    "title": "Transformer sparking and making"
+  },
+  {
+    "text": "Payment done via UPI failed to update on the portal but money was deducted.",
+    "category": "Billing Issue",
+    "priority": "Low",
+    "title": "Payment done via upi"
+  },
+  {
+    "text": "Transformer blowout occurred. The entire street is without power.",
+    "category": "Transformer Fault",
+    "priority": "Critical",
+    "title": "Transformer blowout occurred the"
+  },
+  {
+    "text": "The street light is on during the daytime, wasting public electricity.",
+    "category": "Street Light Fault",
+    "priority": "Low",
+    "title": "The street light is"
+  },
+  {
+    "text": "Received abnormally high electricity bill of Rs 24548 which is triple my typical charge.",
+    "category": "Billing Issue",
+    "priority": "Low",
+    "title": "Received abnormally high electricity"
+  },
+  {
+    "text": "Frequent voltage fluctuations are causing our LED lights to flicker continuously.",
+    "category": "Voltage Fluctuation",
+    "priority": "Medium",
+    "title": "Frequent voltage fluctuations are"
+  },
+  {
+    "text": "Frequent voltage fluctuations are causing our LED lights to flicker continuously.",
+    "category": "Voltage Fluctuation",
+    "priority": "Medium",
+    "title": "Frequent voltage fluctuations are"
+  },
+  {
+    "text": "Incorrect reading on my bill. The bill says 1092 units but my meter shows much less.",
+    "category": "Billing Issue",
+    "priority": "Medium",
+    "title": "Incorrect reading on my"
+  },
+  {
+    "text": "Flickering sodium street light is making humming sound.",
+    "category": "Street Light Fault",
+    "priority": "Medium",
+    "title": "Flickering sodium street light"
+  },
+  {
+    "text": "Frequent power cuts in Dwarka, Delhi are disrupting work. Outage is lasting for hours.",
+    "category": "Power Outage",
+    "priority": "High",
+    "title": "Frequent power cuts in"
+  },
+  {
+    "text": "Newly installed smart meter has a blank screen. Cannot verify consumption units.",
+    "category": "Meter Problem",
+    "priority": "Medium",
+    "title": "Newly installed smart meter"
+  },
+  {
+    "text": "Total power outage reported in Sector 12, Noida. No electricity since 6 hours.",
+    "category": "Power Outage",
+    "priority": "High",
+    "title": "Total power outage reported"
+  },
+  {
+    "text": "The meter disk is spinning extremely fast even when main switch is off.",
+    "category": "Meter Problem",
+    "priority": "Medium",
+    "title": "The meter disk is"
+  },
+  {
+    "text": "Phase voltage mismatch. Voltage drops drastically when heavy load is turned on.",
+    "category": "Voltage Fluctuation",
+    "priority": "Medium",
+    "title": "Phase voltage mismatch voltage"
+  },
+  {
+    "text": "Complete blackout in our sector. Streetlights and houses have no power.",
+    "category": "Power Outage",
+    "priority": "High",
+    "title": "Complete blackout in our"
+  },
+  {
+    "text": "Flickering sodium street light is making humming sound.",
+    "category": "Street Light Fault",
+    "priority": "Low",
+    "title": "Flickering sodium street light"
+  },
+  {
+    "text": "Received abnormally high electricity bill of Rs 4551 which is triple my typical charge.",
+    "category": "Billing Issue",
+    "priority": "Low",
+    "title": "Received abnormally high electricity"
+  },
+  {
+    "text": "Transformer sparking and making loud crackling noises near Sector 62, Noida.",
+    "category": "Transformer Fault",
+    "priority": "Critical",
+    "title": "Transformer sparking and making"
+  },
+  {
+    "text": "Phase voltage mismatch. Voltage drops drastically when heavy load is turned on.",
+    "category": "Voltage Fluctuation",
+    "priority": "High",
+    "title": "Phase voltage mismatch voltage"
+  },
+  {
+    "text": "Extremely low voltage in Salt Lake, Kolkata. Appliances like AC and fridge cannot start.",
+    "category": "Voltage Fluctuation",
+    "priority": "Medium",
+    "title": "Extremely low voltage in"
+  },
+  {
+    "text": "Frequent power cuts in Adyar, Chennai are disrupting work. Outage is lasting for hours.",
+    "category": "Power Outage",
+    "priority": "High",
+    "title": "Frequent power cuts in"
+  },
+  {
+    "text": "Transformer oil leakage observed. It is dripping continuously and presents a safety hazard.",
+    "category": "Transformer Fault",
+    "priority": "Critical",
+    "title": "Transformer oil leakage observed"
+  },
+  {
+    "text": "Flickering sodium street light is making humming sound.",
+    "category": "Street Light Fault",
+    "priority": "Low",
+    "title": "Flickering sodium street light"
+  },
+  {
+    "text": "Double billing error on my account. Payment made online is not credited.",
+    "category": "Billing Issue",
+    "priority": "Low",
+    "title": "Double billing error on"
+  },
+  {
+    "text": "Payment done via UPI failed to update on the portal but money was deducted.",
+    "category": "Billing Issue",
+    "priority": "Low",
+    "title": "Payment done via upi"
+  },
+  {
+    "text": "Extremely low voltage in Kothrud, Pune. Appliances like AC and fridge cannot start.",
+    "category": "Voltage Fluctuation",
+    "priority": "Medium",
+    "title": "Extremely low voltage in"
+  },
+  {
+    "text": "High voltage spikes noticed. A bulb burst and television set is showing error.",
+    "category": "Voltage Fluctuation",
+    "priority": "Medium",
+    "title": "High voltage spikes noticed"
+  },
+  {
+    "text": "Phase voltage mismatch. Voltage drops drastically when heavy load is turned on.",
+    "category": "Voltage Fluctuation",
+    "priority": "Medium",
+    "title": "Phase voltage mismatch voltage"
+  },
+  {
+    "text": "Extremely low voltage in Jubilee Hills, Hyderabad. Appliances like AC and fridge cannot start.",
+    "category": "Voltage Fluctuation",
+    "priority": "Medium",
+    "title": "Extremely low voltage in"
+  },
+  {
+    "text": "Burning smell coming from the meter cabin in the basement.",
+    "category": "Meter Problem",
+    "priority": "High",
+    "title": "Burning smell coming from"
+  },
+  {
+    "text": "Voltage is fluctuating rapidly. Unstable power is harming our household appliances.",
+    "category": "Voltage Fluctuation",
+    "priority": "Medium",
+    "title": "Voltage is fluctuating rapidly"
+  },
+  {
+    "text": "Received abnormally high electricity bill of Rs 11597 which is triple my typical charge.",
+    "category": "Billing Issue",
+    "priority": "Low",
+    "title": "Received abnormally high electricity"
+  },
+  {
+    "text": "Street light in front of house #77 is off for the last 5 days. Street is dark.",
+    "category": "Street Light Fault",
+    "priority": "Low",
+    "title": "Street light in front"
+  },
+  {
+    "text": "Street light pole is leaning dangerously and wires are dangling.",
+    "category": "Street Light Fault",
+    "priority": "Low",
+    "title": "Street light pole is"
+  },
+  {
+    "text": "Meter cover is broken and terminals are exposed. Safety risk for children.",
+    "category": "Meter Problem",
+    "priority": "Medium",
+    "title": "Meter cover is broken"
+  },
+  {
+    "text": "Payment done via UPI failed to update on the portal but money was deducted.",
+    "category": "Billing Issue",
+    "priority": "Low",
+    "title": "Payment done via upi"
+  },
+  {
+    "text": "Heavy smoke and burning smell coming from the local distribution transformer.",
+    "category": "Transformer Fault",
+    "priority": "Critical",
+    "title": "Heavy smoke and burning"
+  },
+  {
+    "text": "Bill not received for the last two months, but now received a heavy penalty charge.",
+    "category": "Billing Issue",
+    "priority": "Low",
+    "title": "Bill not received for"
+  },
+  {
+    "text": "Electricity supply went off suddenly after a small sound from the substation. Please restore it.",
+    "category": "Power Outage",
+    "priority": "High",
+    "title": "Electricity supply went off"
+  },
+  {
+    "text": "The street light is on during the daytime, wasting public electricity.",
+    "category": "Street Light Fault",
+    "priority": "Low",
+    "title": "The street light is"
+  },
+  {
+    "text": "Street light in front of house #102 is off for the last 5 days. Street is dark.",
+    "category": "Street Light Fault",
+    "priority": "Low",
+    "title": "Street light in front"
+  },
+  {
+    "text": "Burning smell coming from the meter cabin in the basement.",
+    "category": "Meter Problem",
+    "priority": "High",
+    "title": "Burning smell coming from"
+  },
+  {
+    "text": "Tariff rate applied is incorrect. I am being charged commercial rates for a residential connection.",
+    "category": "Billing Issue",
+    "priority": "Low",
+    "title": "Tariff rate applied is"
+  },
+  {
+    "text": "Frequent voltage fluctuations are causing our LED lights to flicker continuously.",
+    "category": "Voltage Fluctuation",
+    "priority": "Medium",
+    "title": "Frequent voltage fluctuations are"
+  },
+  {
+    "text": "Fire observed in the overhead transformer box in Sector 12, Noida. Please isolate immediately.",
+    "category": "Transformer Fault",
+    "priority": "Critical",
+    "title": "Fire observed in the"
+  },
+  {
+    "text": "Meter is sparking when load is increased. Needs urgent check.",
+    "category": "Meter Problem",
+    "priority": "Medium",
+    "title": "Meter is sparking when"
+  },
+  {
+    "text": "Electricity supply went off suddenly after a small sound from the substation. Please restore it.",
+    "category": "Power Outage",
+    "priority": "Critical",
+    "title": "Electricity supply went off"
+  },
+  {
+    "text": "Frequent voltage fluctuations are causing our LED lights to flicker continuously.",
+    "category": "Voltage Fluctuation",
+    "priority": "Medium",
+    "title": "Frequent voltage fluctuations are"
+  },
+  {
+    "text": "Received abnormally high electricity bill of Rs 15147 which is triple my typical charge.",
+    "category": "Billing Issue",
+    "priority": "Low",
+    "title": "Received abnormally high electricity"
+  },
+  {
+    "text": "Dim lights in the entire building. The voltage is less than 110V.",
+    "category": "Voltage Fluctuation",
+    "priority": "High",
+    "title": "Dim lights in the"
+  },
+  {
+    "text": "High voltage spikes noticed. A bulb burst and television set is showing error.",
+    "category": "Voltage Fluctuation",
+    "priority": "Medium",
+    "title": "High voltage spikes noticed"
+  },
+  {
+    "text": "Street light pole is leaning dangerously and wires are dangling.",
+    "category": "Street Light Fault",
+    "priority": "Low",
+    "title": "Street light pole is"
+  },
+  {
+    "text": "No power supply in Jubilee Hills, Hyderabad for the last 4 hours. Please check the line fault.",
+    "category": "Power Outage",
+    "priority": "High",
+    "title": "No power supply in"
+  },
+  {
+    "text": "The meter disk is spinning extremely fast even when main switch is off.",
+    "category": "Meter Problem",
+    "priority": "Medium",
+    "title": "The meter disk is"
+  },
+  {
+    "text": "Transformer blowout occurred. The entire street is without power.",
+    "category": "Transformer Fault",
+    "priority": "Critical",
+    "title": "Transformer blowout occurred the"
+  },
+  {
+    "text": "Extremely low voltage in Civil Lines, Delhi. Appliances like AC and fridge cannot start.",
+    "category": "Voltage Fluctuation",
+    "priority": "Medium",
+    "title": "Extremely low voltage in"
+  },
+  {
+    "text": "Phase failure in my house. Only half of the house has light, rest is blacked out.",
+    "category": "Power Outage",
+    "priority": "High",
+    "title": "Phase failure in my"
+  },
+  {
+    "text": "Street light in front of house #79 is off for the last 5 days. Street is dark.",
+    "category": "Street Light Fault",
+    "priority": "Low",
+    "title": "Street light in front"
+  },
+  {
+    "text": "Bill not received for the last two months, but now received a heavy penalty charge.",
+    "category": "Billing Issue",
+    "priority": "Low",
+    "title": "Bill not received for"
+  },
+  {
+    "text": "Street light pole is leaning dangerously and wires are dangling.",
+    "category": "Street Light Fault",
+    "priority": "Medium",
+    "title": "Street light pole is"
+  },
+  {
+    "text": "Meter cover is broken and terminals are exposed. Safety risk for children.",
+    "category": "Meter Problem",
+    "priority": "High",
+    "title": "Meter cover is broken"
+  },
+  {
+    "text": "Transformer oil leakage observed. It is dripping continuously and presents a safety hazard.",
+    "category": "Transformer Fault",
+    "priority": "Critical",
+    "title": "Transformer oil leakage observed"
+  },
+  {
+    "text": "Electricity supply went off suddenly after a small sound from the substation. Please restore it.",
+    "category": "Power Outage",
+    "priority": "High",
+    "title": "Electricity supply went off"
+  },
+  {
+    "text": "Frequent voltage fluctuations are causing our LED lights to flicker continuously.",
+    "category": "Voltage Fluctuation",
+    "priority": "Medium",
+    "title": "Frequent voltage fluctuations are"
+  },
+  {
+    "text": "Bill not received for the last two months, but now received a heavy penalty charge.",
+    "category": "Billing Issue",
+    "priority": "Low",
+    "title": "Bill not received for"
+  },
+  {
+    "text": "Transformer blowout occurred. The entire street is without power.",
+    "category": "Transformer Fault",
+    "priority": "Critical",
+    "title": "Transformer blowout occurred the"
+  },
+  {
+    "text": "Tariff rate applied is incorrect. I am being charged commercial rates for a residential connection.",
+    "category": "Billing Issue",
+    "priority": "Low",
+    "title": "Tariff rate applied is"
+  },
+  {
+    "text": "Newly installed smart meter has a blank screen. Cannot verify consumption units.",
+    "category": "Meter Problem",
+    "priority": "Medium",
+    "title": "Newly installed smart meter"
+  },
+  {
+    "text": "Double billing error on my account. Payment made online is not credited.",
+    "category": "Billing Issue",
+    "priority": "Low",
+    "title": "Double billing error on"
+  },
+  {
+    "text": "Street light in front of house #46 is off for the last 5 days. Street is dark.",
+    "category": "Street Light Fault",
+    "priority": "Low",
+    "title": "Street light in front"
+  },
+  {
+    "text": "Street light pole is leaning dangerously and wires are dangling.",
+    "category": "Street Light Fault",
+    "priority": "Low",
+    "title": "Street light pole is"
+  },
+  {
+    "text": "Phase failure in my house. Only half of the house has light, rest is blacked out.",
+    "category": "Power Outage",
+    "priority": "High",
+    "title": "Phase failure in my"
+  },
+  {
+    "text": "Smart meter displaying error code E-03 and connection status is red.",
+    "category": "Meter Problem",
+    "priority": "Medium",
+    "title": "Smart meter displaying error"
+  },
+  {
+    "text": "Frequent power cuts in Bandra, Mumbai are disrupting work. Outage is lasting for hours.",
+    "category": "Power Outage",
+    "priority": "High",
+    "title": "Frequent power cuts in"
+  },
+  {
+    "text": "Incorrect reading on my bill. The bill says 2395 units but my meter shows much less.",
+    "category": "Billing Issue",
+    "priority": "Medium",
+    "title": "Incorrect reading on my"
+  },
+  {
+    "text": "Payment done via UPI failed to update on the portal but money was deducted.",
+    "category": "Billing Issue",
+    "priority": "Low",
+    "title": "Payment done via upi"
+  },
+  {
+    "text": "Fire observed in the overhead transformer box in Indiranagar, Bangalore. Please isolate immediately.",
+    "category": "Transformer Fault",
+    "priority": "Critical",
+    "title": "Fire observed in the"
+  },
+  {
+    "text": "Meter is sparking when load is increased. Needs urgent check.",
+    "category": "Meter Problem",
+    "priority": "High",
+    "title": "Meter is sparking when"
+  },
+  {
+    "text": "Bill not received for the last two months, but now received a heavy penalty charge.",
+    "category": "Billing Issue",
+    "priority": "Low",
+    "title": "Bill not received for"
+  },
+  {
+    "text": "Extremely low voltage in Indiranagar, Bangalore. Appliances like AC and fridge cannot start.",
+    "category": "Voltage Fluctuation",
+    "priority": "Medium",
+    "title": "Extremely low voltage in"
+  },
+  {
+    "text": "Bill not received for the last two months, but now received a heavy penalty charge.",
+    "category": "Billing Issue",
+    "priority": "Low",
+    "title": "Bill not received for"
+  },
+  {
+    "text": "Received abnormally high electricity bill of Rs 13593 which is triple my typical charge.",
+    "category": "Billing Issue",
+    "priority": "Medium",
+    "title": "Received abnormally high electricity"
+  },
+  {
+    "text": "Phase failure in my house. Only half of the house has light, rest is blacked out.",
+    "category": "Power Outage",
+    "priority": "High",
+    "title": "Phase failure in my"
+  },
+  {
+    "text": "Voltage is fluctuating rapidly. Unstable power is harming our household appliances.",
+    "category": "Voltage Fluctuation",
+    "priority": "Medium",
+    "title": "Voltage is fluctuating rapidly"
+  },
+  {
+    "text": "Bill not received for the last two months, but now received a heavy penalty charge.",
+    "category": "Billing Issue",
+    "priority": "Low",
+    "title": "Bill not received for"
+  },
+  {
+    "text": "The street light is on during the daytime, wasting public electricity.",
+    "category": "Street Light Fault",
+    "priority": "Low",
+    "title": "The street light is"
+  },
+  {
+    "text": "Street light pole is leaning dangerously and wires are dangling.",
+    "category": "Street Light Fault",
+    "priority": "Medium",
+    "title": "Street light pole is"
+  },
+  {
+    "text": "Bill not received for the last two months, but now received a heavy penalty charge.",
+    "category": "Billing Issue",
+    "priority": "Low",
+    "title": "Bill not received for"
+  },
+  {
+    "text": "Frequent voltage fluctuations are causing our LED lights to flicker continuously.",
+    "category": "Voltage Fluctuation",
+    "priority": "Medium",
+    "title": "Frequent voltage fluctuations are"
+  },
+  {
+    "text": "No power supply in Jubilee Hills, Hyderabad for the last 6 hours. Please check the line fault.",
+    "category": "Power Outage",
+    "priority": "Critical",
+    "title": "No power supply in"
+  },
+  {
+    "text": "Street light pole is leaning dangerously and wires are dangling.",
+    "category": "Street Light Fault",
+    "priority": "Low",
+    "title": "Street light pole is"
+  },
+  {
+    "text": "Received abnormally high electricity bill of Rs 18466 which is triple my typical charge.",
+    "category": "Billing Issue",
+    "priority": "Low",
+    "title": "Received abnormally high electricity"
+  },
+  {
+    "text": "Extremely low voltage in Ghatkopar, Mumbai. Appliances like AC and fridge cannot start.",
+    "category": "Voltage Fluctuation",
+    "priority": "High",
+    "title": "Extremely low voltage in"
+  },
+  {
+    "text": "Transformer sparking and making loud crackling noises near Bandra, Mumbai.",
+    "category": "Transformer Fault",
+    "priority": "Critical",
+    "title": "Transformer sparking and making"
+  },
+  {
+    "text": "Extremely low voltage in Kothrud, Pune. Appliances like AC and fridge cannot start.",
+    "category": "Voltage Fluctuation",
+    "priority": "Medium",
+    "title": "Extremely low voltage in"
+  },
+  {
+    "text": "Multiple street lights are non-functional on main road of Adyar, Chennai.",
+    "category": "Street Light Fault",
+    "priority": "Low",
+    "title": "Multiple street lights are"
+  },
+  {
+    "text": "Fire observed in the overhead transformer box in Kothrud, Pune. Please isolate immediately.",
+    "category": "Transformer Fault",
+    "priority": "Critical",
+    "title": "Fire observed in the"
+  },
+  {
+    "text": "Payment done via UPI failed to update on the portal but money was deducted.",
+    "category": "Billing Issue",
+    "priority": "Low",
+    "title": "Payment done via upi"
+  },
+  {
+    "text": "Burning smell coming from the meter cabin in the basement.",
+    "category": "Meter Problem",
+    "priority": "Medium",
+    "title": "Burning smell coming from"
+  },
+  {
+    "text": "Flickering sodium street light is making humming sound.",
+    "category": "Street Light Fault",
+    "priority": "Low",
+    "title": "Flickering sodium street light"
+  },
+  {
+    "text": "Bill not received for the last two months, but now received a heavy penalty charge.",
+    "category": "Billing Issue",
+    "priority": "Low",
+    "title": "Bill not received for"
+  },
+  {
+    "text": "Voltage is fluctuating rapidly. Unstable power is harming our household appliances.",
+    "category": "Voltage Fluctuation",
+    "priority": "Medium",
+    "title": "Voltage is fluctuating rapidly"
+  },
+  {
+    "text": "Total power outage reported in Bandra, Mumbai. No electricity since 10 hours.",
+    "category": "Power Outage",
+    "priority": "High",
+    "title": "Total power outage reported"
+  },
+  {
+    "text": "Newly installed smart meter has a blank screen. Cannot verify consumption units.",
+    "category": "Meter Problem",
+    "priority": "Medium",
+    "title": "Newly installed smart meter"
+  },
+  {
+    "text": "No power supply in Kothrud, Pune for the last 4 hours. Please check the line fault.",
+    "category": "Power Outage",
+    "priority": "High",
+    "title": "No power supply in"
+  },
+  {
+    "text": "Frequent power cuts in Sector 12, Noida are disrupting work. Outage is lasting for hours.",
+    "category": "Power Outage",
+    "priority": "Critical",
+    "title": "Frequent power cuts in"
+  },
+  {
+    "text": "Loud blast heard and smoke coming out of the transformer pole.",
+    "category": "Transformer Fault",
+    "priority": "Critical",
+    "title": "Loud blast heard and"
+  },
+  {
+    "text": "The street light is on during the daytime, wasting public electricity.",
+    "category": "Street Light Fault",
+    "priority": "Low",
+    "title": "The street light is"
+  },
+  {
+    "text": "Transformer oil leakage observed. It is dripping continuously and presents a safety hazard.",
+    "category": "Transformer Fault",
+    "priority": "Critical",
+    "title": "Transformer oil leakage observed"
+  },
+  {
+    "text": "Frequent power cuts in Indiranagar, Bangalore are disrupting work. Outage is lasting for hours.",
+    "category": "Power Outage",
+    "priority": "High",
+    "title": "Frequent power cuts in"
+  },
+  {
+    "text": "Electricity supply went off suddenly after a small sound from the substation. Please restore it.",
+    "category": "Power Outage",
+    "priority": "High",
+    "title": "Electricity supply went off"
+  },
+  {
+    "text": "The street light is on during the daytime, wasting public electricity.",
+    "category": "Street Light Fault",
+    "priority": "Low",
+    "title": "The street light is"
+  },
+  {
+    "text": "Transformer oil leakage observed. It is dripping continuously and presents a safety hazard.",
+    "category": "Transformer Fault",
+    "priority": "Critical",
+    "title": "Transformer oil leakage observed"
+  },
+  {
+    "text": "Extremely low voltage in Ghatkopar, Mumbai. Appliances like AC and fridge cannot start.",
+    "category": "Voltage Fluctuation",
+    "priority": "Medium",
+    "title": "Extremely low voltage in"
+  },
+  {
+    "text": "Total power outage reported in Dwarka, Delhi. No electricity since 1 hours.",
+    "category": "Power Outage",
+    "priority": "High",
+    "title": "Total power outage reported"
+  },
+  {
+    "text": "Bill not received for the last two months, but now received a heavy penalty charge.",
+    "category": "Billing Issue",
+    "priority": "Low",
+    "title": "Bill not received for"
+  },
+  {
+    "text": "Phase failure in my house. Only half of the house has light, rest is blacked out.",
+    "category": "Power Outage",
+    "priority": "Critical",
+    "title": "Phase failure in my"
+  },
+  {
+    "text": "Voltage is fluctuating rapidly. Unstable power is harming our household appliances.",
+    "category": "Voltage Fluctuation",
+    "priority": "Medium",
+    "title": "Voltage is fluctuating rapidly"
+  },
+  {
+    "text": "Transformer oil leakage observed. It is dripping continuously and presents a safety hazard.",
+    "category": "Transformer Fault",
+    "priority": "Critical",
+    "title": "Transformer oil leakage observed"
+  },
+  {
+    "text": "Extremely low voltage in Indiranagar, Bangalore. Appliances like AC and fridge cannot start.",
+    "category": "Voltage Fluctuation",
+    "priority": "Medium",
+    "title": "Extremely low voltage in"
+  },
+  {
+    "text": "Loud blast heard and smoke coming out of the transformer pole.",
+    "category": "Transformer Fault",
+    "priority": "Critical",
+    "title": "Loud blast heard and"
+  },
+  {
+    "text": "Frequent power cuts in Whitefield, Bangalore are disrupting work. Outage is lasting for hours.",
+    "category": "Power Outage",
+    "priority": "High",
+    "title": "Frequent power cuts in"
+  },
+  {
+    "text": "Meter is sparking when load is increased. Needs urgent check.",
+    "category": "Meter Problem",
+    "priority": "Medium",
+    "title": "Meter is sparking when"
+  },
+  {
+    "text": "Street light pole is leaning dangerously and wires are dangling.",
+    "category": "Street Light Fault",
+    "priority": "Low",
+    "title": "Street light pole is"
+  },
+  {
+    "text": "Extremely low voltage in Ghatkopar, Mumbai. Appliances like AC and fridge cannot start.",
+    "category": "Voltage Fluctuation",
+    "priority": "Medium",
+    "title": "Extremely low voltage in"
+  },
+  {
+    "text": "Electricity supply went off suddenly after a small sound from the substation. Please restore it.",
+    "category": "Power Outage",
+    "priority": "High",
+    "title": "Electricity supply went off"
+  },
+  {
+    "text": "The meter disk is spinning extremely fast even when main switch is off.",
+    "category": "Meter Problem",
+    "priority": "Medium",
+    "title": "The meter disk is"
+  },
+  {
+    "text": "Received abnormally high electricity bill of Rs 24940 which is triple my typical charge.",
+    "category": "Billing Issue",
+    "priority": "Low",
+    "title": "Received abnormally high electricity"
+  },
+  {
+    "text": "Tariff rate applied is incorrect. I am being charged commercial rates for a residential connection.",
+    "category": "Billing Issue",
+    "priority": "Low",
+    "title": "Tariff rate applied is"
+  },
+  {
+    "text": "Frequent voltage fluctuations are causing our LED lights to flicker continuously.",
+    "category": "Voltage Fluctuation",
+    "priority": "Medium",
+    "title": "Frequent voltage fluctuations are"
+  },
+  {
+    "text": "Transformer blowout occurred. The entire street is without power.",
+    "category": "Transformer Fault",
+    "priority": "Critical",
+    "title": "Transformer blowout occurred the"
+  },
+  {
+    "text": "Incorrect reading on my bill. The bill says 1801 units but my meter shows much less.",
+    "category": "Billing Issue",
+    "priority": "Low",
+    "title": "Incorrect reading on my"
+  },
+  {
+    "text": "Street lamp is flickering continuously, causing disturbance at night.",
+    "category": "Street Light Fault",
+    "priority": "Low",
+    "title": "Street lamp is flickering"
+  },
+  {
+    "text": "Bill not received for the last two months, but now received a heavy penalty charge.",
+    "category": "Billing Issue",
+    "priority": "Low",
+    "title": "Bill not received for"
+  },
+  {
+    "text": "The meter disk is spinning extremely fast even when main switch is off.",
+    "category": "Meter Problem",
+    "priority": "High",
+    "title": "The meter disk is"
+  },
+  {
+    "text": "Extremely low voltage in Salt Lake, Kolkata. Appliances like AC and fridge cannot start.",
+    "category": "Voltage Fluctuation",
+    "priority": "Medium",
+    "title": "Extremely low voltage in"
+  },
+  {
+    "text": "Received abnormally high electricity bill of Rs 4271 which is triple my typical charge.",
+    "category": "Billing Issue",
+    "priority": "Low",
+    "title": "Received abnormally high electricity"
+  },
+  {
+    "text": "Street light in front of house #20 is off for the last 5 days. Street is dark.",
+    "category": "Street Light Fault",
+    "priority": "Low",
+    "title": "Street light in front"
+  },
+  {
+    "text": "Complete blackout in our sector. Streetlights and houses have no power.",
+    "category": "Power Outage",
+    "priority": "Critical",
+    "title": "Complete blackout in our"
+  },
+  {
+    "text": "Multiple street lights are non-functional on main road of Whitefield, Bangalore.",
+    "category": "Street Light Fault",
+    "priority": "Low",
+    "title": "Multiple street lights are"
+  },
+  {
+    "text": "Frequent power cuts in Jubilee Hills, Hyderabad are disrupting work. Outage is lasting for hours.",
+    "category": "Power Outage",
+    "priority": "High",
+    "title": "Frequent power cuts in"
+  },
+  {
+    "text": "Received abnormally high electricity bill of Rs 24085 which is triple my typical charge.",
+    "category": "Billing Issue",
+    "priority": "Low",
+    "title": "Received abnormally high electricity"
+  },
+  {
+    "text": "Street light pole is leaning dangerously and wires are dangling.",
+    "category": "Street Light Fault",
+    "priority": "Low",
+    "title": "Street light pole is"
+  },
+  {
+    "text": "Flickering sodium street light is making humming sound.",
+    "category": "Street Light Fault",
+    "priority": "Low",
+    "title": "Flickering sodium street light"
+  },
+  {
+    "text": "The street light is on during the daytime, wasting public electricity.",
+    "category": "Street Light Fault",
+    "priority": "Low",
+    "title": "The street light is"
+  },
+  {
+    "text": "The street light is on during the daytime, wasting public electricity.",
+    "category": "Street Light Fault",
+    "priority": "Low",
+    "title": "The street light is"
+  },
+  {
+    "text": "Meter cover is broken and terminals are exposed. Safety risk for children.",
+    "category": "Meter Problem",
+    "priority": "Medium",
+    "title": "Meter cover is broken"
+  },
+  {
+    "text": "Meter cover is broken and terminals are exposed. Safety risk for children.",
+    "category": "Meter Problem",
+    "priority": "Medium",
+    "title": "Meter cover is broken"
+  },
+  {
+    "text": "Incorrect reading on my bill. The bill says 2471 units but my meter shows much less.",
+    "category": "Billing Issue",
+    "priority": "Low",
+    "title": "Incorrect reading on my"
+  },
+  {
+    "text": "Voltage is fluctuating rapidly. Unstable power is harming our household appliances.",
+    "category": "Voltage Fluctuation",
+    "priority": "Medium",
+    "title": "Voltage is fluctuating rapidly"
+  },
+  {
+    "text": "Phase voltage mismatch. Voltage drops drastically when heavy load is turned on.",
+    "category": "Voltage Fluctuation",
+    "priority": "High",
+    "title": "Phase voltage mismatch voltage"
+  },
+  {
+    "text": "Frequent power cuts in Civil Lines, Delhi are disrupting work. Outage is lasting for hours.",
+    "category": "Power Outage",
+    "priority": "High",
+    "title": "Frequent power cuts in"
+  },
+  {
+    "text": "Newly installed smart meter has a blank screen. Cannot verify consumption units.",
+    "category": "Meter Problem",
+    "priority": "Medium",
+    "title": "Newly installed smart meter"
+  },
+  {
+    "text": "Frequent power cuts in Civil Lines, Delhi are disrupting work. Outage is lasting for hours.",
+    "category": "Power Outage",
+    "priority": "High",
+    "title": "Frequent power cuts in"
+  },
+  {
+    "text": "Payment done via UPI failed to update on the portal but money was deducted.",
+    "category": "Billing Issue",
+    "priority": "Low",
+    "title": "Payment done via upi"
+  },
+  {
+    "text": "Fire observed in the overhead transformer box in Whitefield, Bangalore. Please isolate immediately.",
+    "category": "Transformer Fault",
+    "priority": "Critical",
+    "title": "Fire observed in the"
+  },
+  {
+    "text": "Street light pole is leaning dangerously and wires are dangling.",
+    "category": "Street Light Fault",
+    "priority": "Low",
+    "title": "Street light pole is"
+  },
+  {
+    "text": "Incorrect reading on my bill. The bill says 1569 units but my meter shows much less.",
+    "category": "Billing Issue",
+    "priority": "Low",
+    "title": "Incorrect reading on my"
+  },
+  {
+    "text": "Electricity supply went off suddenly after a small sound from the substation. Please restore it.",
+    "category": "Power Outage",
+    "priority": "High",
+    "title": "Electricity supply went off"
+  },
+  {
+    "text": "Street lamp is flickering continuously, causing disturbance at night.",
+    "category": "Street Light Fault",
+    "priority": "Medium",
+    "title": "Street lamp is flickering"
+  },
+  {
+    "text": "Payment done via UPI failed to update on the portal but money was deducted.",
+    "category": "Billing Issue",
+    "priority": "Low",
+    "title": "Payment done via upi"
+  },
+  {
+    "text": "Phase voltage mismatch. Voltage drops drastically when heavy load is turned on.",
+    "category": "Voltage Fluctuation",
+    "priority": "High",
+    "title": "Phase voltage mismatch voltage"
+  },
+  {
+    "text": "Heavy smoke and burning smell coming from the local distribution transformer.",
+    "category": "Transformer Fault",
+    "priority": "Critical",
+    "title": "Heavy smoke and burning"
+  },
+  {
+    "text": "Total power outage reported in Sector 62, Noida. No electricity since 1 hours.",
+    "category": "Power Outage",
+    "priority": "High",
+    "title": "Total power outage reported"
+  },
+  {
+    "text": "Street light in front of house #132 is off for the last 5 days. Street is dark.",
+    "category": "Street Light Fault",
+    "priority": "Medium",
+    "title": "Street light in front"
+  },
+  {
+    "text": "Frequent power cuts in Ghatkopar, Mumbai are disrupting work. Outage is lasting for hours.",
+    "category": "Power Outage",
+    "priority": "Critical",
+    "title": "Frequent power cuts in"
+  },
+  {
+    "text": "Loud blast heard and smoke coming out of the transformer pole.",
+    "category": "Transformer Fault",
+    "priority": "Critical",
+    "title": "Loud blast heard and"
+  },
+  {
+    "text": "Meter cover is broken and terminals are exposed. Safety risk for children.",
+    "category": "Meter Problem",
+    "priority": "Medium",
+    "title": "Meter cover is broken"
+  },
+  {
+    "text": "Loud blast heard and smoke coming out of the transformer pole.",
+    "category": "Transformer Fault",
+    "priority": "Critical",
+    "title": "Loud blast heard and"
+  },
+  {
+    "text": "Payment done via UPI failed to update on the portal but money was deducted.",
+    "category": "Billing Issue",
+    "priority": "Low",
+    "title": "Payment done via upi"
+  },
+  {
+    "text": "The meter disk is spinning extremely fast even when main switch is off.",
+    "category": "Meter Problem",
+    "priority": "Medium",
+    "title": "The meter disk is"
+  },
+  {
+    "text": "Meter is sparking when load is increased. Needs urgent check.",
+    "category": "Meter Problem",
+    "priority": "Medium",
+    "title": "Meter is sparking when"
+  },
+  {
+    "text": "Tariff rate applied is incorrect. I am being charged commercial rates for a residential connection.",
+    "category": "Billing Issue",
+    "priority": "Medium",
+    "title": "Tariff rate applied is"
+  },
+  {
+    "text": "Meter cover is broken and terminals are exposed. Safety risk for children.",
+    "category": "Meter Problem",
+    "priority": "High",
+    "title": "Meter cover is broken"
+  },
+  {
+    "text": "Payment done via UPI failed to update on the portal but money was deducted.",
+    "category": "Billing Issue",
+    "priority": "Low",
+    "title": "Payment done via upi"
+  },
+  {
+    "text": "Meter is sparking when load is increased. Needs urgent check.",
+    "category": "Meter Problem",
+    "priority": "Medium",
+    "title": "Meter is sparking when"
+  },
+  {
+    "text": "Received abnormally high electricity bill of Rs 14143 which is triple my typical charge.",
+    "category": "Billing Issue",
+    "priority": "Low",
+    "title": "Received abnormally high electricity"
+  },
+  {
+    "text": "Double billing error on my account. Payment made online is not credited.",
+    "category": "Billing Issue",
+    "priority": "Low",
+    "title": "Double billing error on"
+  },
+  {
+    "text": "Smart meter displaying error code E-03 and connection status is red.",
+    "category": "Meter Problem",
+    "priority": "Medium",
+    "title": "Smart meter displaying error"
+  },
+  {
+    "text": "Fire observed in the overhead transformer box in Sector 12, Noida. Please isolate immediately.",
+    "category": "Transformer Fault",
+    "priority": "Critical",
+    "title": "Fire observed in the"
+  },
+  {
+    "text": "Flickering sodium street light is making humming sound.",
+    "category": "Street Light Fault",
+    "priority": "Low",
+    "title": "Flickering sodium street light"
+  },
+  {
+    "text": "Smart meter displaying error code Err-88 and connection status is red.",
+    "category": "Meter Problem",
+    "priority": "Medium",
+    "title": "Smart meter displaying error"
+  },
+  {
+    "text": "The meter disk is spinning extremely fast even when main switch is off.",
+    "category": "Meter Problem",
+    "priority": "Medium",
+    "title": "The meter disk is"
+  },
+  {
+    "text": "Street light in front of house #193 is off for the last 5 days. Street is dark.",
+    "category": "Street Light Fault",
+    "priority": "Low",
+    "title": "Street light in front"
+  },
+  {
+    "text": "Tariff rate applied is incorrect. I am being charged commercial rates for a residential connection.",
+    "category": "Billing Issue",
+    "priority": "Low",
+    "title": "Tariff rate applied is"
+  },
+  {
+    "text": "Incorrect reading on my bill. The bill says 1914 units but my meter shows much less.",
+    "category": "Billing Issue",
+    "priority": "Low",
+    "title": "Incorrect reading on my"
+  },
+  {
+    "text": "Voltage is fluctuating rapidly. Unstable power is harming our household appliances.",
+    "category": "Voltage Fluctuation",
+    "priority": "Medium",
+    "title": "Voltage is fluctuating rapidly"
+  },
+  {
+    "text": "Burning smell coming from the meter cabin in the basement.",
+    "category": "Meter Problem",
+    "priority": "High",
+    "title": "Burning smell coming from"
+  },
+  {
+    "text": "Street light pole is leaning dangerously and wires are dangling.",
+    "category": "Street Light Fault",
+    "priority": "Low",
+    "title": "Street light pole is"
+  },
+  {
+    "text": "Street light in front of house #148 is off for the last 5 days. Street is dark.",
+    "category": "Street Light Fault",
+    "priority": "Low",
+    "title": "Street light in front"
+  },
+  {
+    "text": "Received abnormally high electricity bill of Rs 21464 which is triple my typical charge.",
+    "category": "Billing Issue",
+    "priority": "Low",
+    "title": "Received abnormally high electricity"
+  },
+  {
+    "text": "Tariff rate applied is incorrect. I am being charged commercial rates for a residential connection.",
+    "category": "Billing Issue",
+    "priority": "Low",
+    "title": "Tariff rate applied is"
+  },
+  {
+    "text": "Burning smell coming from the meter cabin in the basement.",
+    "category": "Meter Problem",
+    "priority": "Medium",
+    "title": "Burning smell coming from"
+  },
+  {
+    "text": "High voltage spikes noticed. A bulb burst and television set is showing error.",
+    "category": "Voltage Fluctuation",
+    "priority": "Medium",
+    "title": "High voltage spikes noticed"
+  },
+  {
+    "text": "Burning smell coming from the meter cabin in the basement.",
+    "category": "Meter Problem",
+    "priority": "Medium",
+    "title": "Burning smell coming from"
+  },
+  {
+    "text": "Smart meter displaying error code E-03 and connection status is red.",
+    "category": "Meter Problem",
+    "priority": "Medium",
+    "title": "Smart meter displaying error"
+  },
+  {
+    "text": "Transformer oil leakage observed. It is dripping continuously and presents a safety hazard.",
+    "category": "Transformer Fault",
+    "priority": "Critical",
+    "title": "Transformer oil leakage observed"
+  },
+  {
+    "text": "Flickering sodium street light is making humming sound.",
+    "category": "Street Light Fault",
+    "priority": "Medium",
+    "title": "Flickering sodium street light"
+  },
+  {
+    "text": "Transformer blowout occurred. The entire street is without power.",
+    "category": "Transformer Fault",
+    "priority": "Critical",
+    "title": "Transformer blowout occurred the"
+  },
+  {
+    "text": "Double billing error on my account. Payment made online is not credited.",
+    "category": "Billing Issue",
+    "priority": "Low",
+    "title": "Double billing error on"
+  },
+  {
+    "text": "Newly installed smart meter has a blank screen. Cannot verify consumption units.",
+    "category": "Meter Problem",
+    "priority": "Medium",
+    "title": "Newly installed smart meter"
+  },
+  {
+    "text": "Payment done via UPI failed to update on the portal but money was deducted.",
+    "category": "Billing Issue",
+    "priority": "Low",
+    "title": "Payment done via upi"
+  },
+  {
+    "text": "Incorrect reading on my bill. The bill says 2161 units but my meter shows much less.",
+    "category": "Billing Issue",
+    "priority": "Low",
+    "title": "Incorrect reading on my"
+  },
+  {
+    "text": "Street light pole is leaning dangerously and wires are dangling.",
+    "category": "Street Light Fault",
+    "priority": "Low",
+    "title": "Street light pole is"
+  },
+  {
+    "text": "Street lamp is flickering continuously, causing disturbance at night.",
+    "category": "Street Light Fault",
+    "priority": "Low",
+    "title": "Street lamp is flickering"
+  },
+  {
+    "text": "Street lamp is flickering continuously, causing disturbance at night.",
+    "category": "Street Light Fault",
+    "priority": "Low",
+    "title": "Street lamp is flickering"
+  },
+  {
+    "text": "Meter cover is broken and terminals are exposed. Safety risk for children.",
+    "category": "Meter Problem",
+    "priority": "Medium",
+    "title": "Meter cover is broken"
+  },
+  {
+    "text": "Street lamp is flickering continuously, causing disturbance at night.",
+    "category": "Street Light Fault",
+    "priority": "Low",
+    "title": "Street lamp is flickering"
+  },
+  {
+    "text": "Multiple street lights are non-functional on main road of Civil Lines, Delhi.",
+    "category": "Street Light Fault",
+    "priority": "Low",
+    "title": "Multiple street lights are"
+  },
+  {
+    "text": "Dim lights in the entire building. The voltage is less than 110V.",
+    "category": "Voltage Fluctuation",
+    "priority": "Medium",
+    "title": "Dim lights in the"
+  },
+  {
+    "text": "Bill not received for the last two months, but now received a heavy penalty charge.",
+    "category": "Billing Issue",
+    "priority": "Low",
+    "title": "Bill not received for"
+  },
+  {
+    "text": "Smart meter displaying error code COMM-FAIL and connection status is red.",
+    "category": "Meter Problem",
+    "priority": "Medium",
+    "title": "Smart meter displaying error"
+  },
+  {
+    "text": "Voltage is fluctuating rapidly. Unstable power is harming our household appliances.",
+    "category": "Voltage Fluctuation",
+    "priority": "Medium",
+    "title": "Voltage is fluctuating rapidly"
+  },
+  {
+    "text": "Frequent power cuts in Dwarka, Delhi are disrupting work. Outage is lasting for hours.",
+    "category": "Power Outage",
+    "priority": "Critical",
+    "title": "Frequent power cuts in"
+  },
+  {
+    "text": "Multiple street lights are non-functional on main road of Kothrud, Pune.",
+    "category": "Street Light Fault",
+    "priority": "Low",
+    "title": "Multiple street lights are"
+  },
+  {
+    "text": "Total power outage reported in Sector 62, Noida. No electricity since 3 hours.",
+    "category": "Power Outage",
+    "priority": "High",
+    "title": "Total power outage reported"
+  },
+  {
+    "text": "Electricity supply went off suddenly after a small sound from the substation. Please restore it.",
+    "category": "Power Outage",
+    "priority": "Critical",
+    "title": "Electricity supply went off"
+  },
+  {
+    "text": "Smart meter displaying error code E-03 and connection status is red.",
+    "category": "Meter Problem",
+    "priority": "Medium",
+    "title": "Smart meter displaying error"
+  },
+  {
+    "text": "The meter disk is spinning extremely fast even when main switch is off.",
+    "category": "Meter Problem",
+    "priority": "Medium",
+    "title": "The meter disk is"
+  },
+  {
+    "text": "The meter disk is spinning extremely fast even when main switch is off.",
+    "category": "Meter Problem",
+    "priority": "Medium",
+    "title": "The meter disk is"
+  },
+  {
+    "text": "Loud blast heard and smoke coming out of the transformer pole.",
+    "category": "Transformer Fault",
+    "priority": "Critical",
+    "title": "Loud blast heard and"
+  },
+  {
+    "text": "Bill not received for the last two months, but now received a heavy penalty charge.",
+    "category": "Billing Issue",
+    "priority": "Low",
+    "title": "Bill not received for"
+  },
+  {
+    "text": "Loud blast heard and smoke coming out of the transformer pole.",
+    "category": "Transformer Fault",
+    "priority": "Critical",
+    "title": "Loud blast heard and"
+  },
+  {
+    "text": "Street light in front of house #57 is off for the last 5 days. Street is dark.",
+    "category": "Street Light Fault",
+    "priority": "Low",
+    "title": "Street light in front"
+  },
+  {
+    "text": "Smart meter displaying error code COMM-FAIL and connection status is red.",
+    "category": "Meter Problem",
+    "priority": "Medium",
+    "title": "Smart meter displaying error"
+  },
+  {
+    "text": "Frequent voltage fluctuations are causing our LED lights to flicker continuously.",
+    "category": "Voltage Fluctuation",
+    "priority": "Medium",
+    "title": "Frequent voltage fluctuations are"
+  },
+  {
+    "text": "Voltage is fluctuating rapidly. Unstable power is harming our household appliances.",
+    "category": "Voltage Fluctuation",
+    "priority": "High",
+    "title": "Voltage is fluctuating rapidly"
+  },
+  {
+    "text": "Phase voltage mismatch. Voltage drops drastically when heavy load is turned on.",
+    "category": "Voltage Fluctuation",
+    "priority": "Medium",
+    "title": "Phase voltage mismatch voltage"
+  },
+  {
+    "text": "Fire observed in the overhead transformer box in Salt Lake, Kolkata. Please isolate immediately.",
+    "category": "Transformer Fault",
+    "priority": "Critical",
+    "title": "Fire observed in the"
+  },
+  {
+    "text": "Meter is sparking when load is increased. Needs urgent check.",
+    "category": "Meter Problem",
+    "priority": "Medium",
+    "title": "Meter is sparking when"
+  },
+  {
+    "text": "Double billing error on my account. Payment made online is not credited.",
+    "category": "Billing Issue",
+    "priority": "Low",
+    "title": "Double billing error on"
+  },
+  {
+    "text": "Incorrect reading on my bill. The bill says 1013 units but my meter shows much less.",
+    "category": "Billing Issue",
+    "priority": "Low",
+    "title": "Incorrect reading on my"
+  },
+  {
+    "text": "Dim lights in the entire building. The voltage is less than 110V.",
+    "category": "Voltage Fluctuation",
+    "priority": "Medium",
+    "title": "Dim lights in the"
+  },
+  {
+    "text": "Street lamp is flickering continuously, causing disturbance at night.",
+    "category": "Street Light Fault",
+    "priority": "Low",
+    "title": "Street lamp is flickering"
+  },
+  {
+    "text": "Meter cover is broken and terminals are exposed. Safety risk for children.",
+    "category": "Meter Problem",
+    "priority": "High",
+    "title": "Meter cover is broken"
+  },
+  {
+    "text": "The meter disk is spinning extremely fast even when main switch is off.",
+    "category": "Meter Problem",
+    "priority": "Medium",
+    "title": "The meter disk is"
+  },
+  {
+    "text": "Bill not received for the last two months, but now received a heavy penalty charge.",
+    "category": "Billing Issue",
+    "priority": "Low",
+    "title": "Bill not received for"
+  },
+  {
+    "text": "Frequent power cuts in Indiranagar, Bangalore are disrupting work. Outage is lasting for hours.",
+    "category": "Power Outage",
+    "priority": "High",
+    "title": "Frequent power cuts in"
+  },
+  {
+    "text": "Phase failure in my house. Only half of the house has light, rest is blacked out.",
+    "category": "Power Outage",
+    "priority": "High",
+    "title": "Phase failure in my"
+  },
+  {
+    "text": "Smart meter displaying error code Err-88 and connection status is red.",
+    "category": "Meter Problem",
+    "priority": "Medium",
+    "title": "Smart meter displaying error"
+  },
+  {
+    "text": "Transformer sparking and making loud crackling noises near Dwarka, Delhi.",
+    "category": "Transformer Fault",
+    "priority": "Critical",
+    "title": "Transformer sparking and making"
+  },
+  {
+    "text": "Street light pole is leaning dangerously and wires are dangling.",
+    "category": "Street Light Fault",
+    "priority": "Low",
+    "title": "Street light pole is"
+  },
+  {
+    "text": "Double billing error on my account. Payment made online is not credited.",
+    "category": "Billing Issue",
+    "priority": "Low",
+    "title": "Double billing error on"
+  },
+  {
+    "text": "Transformer oil leakage observed. It is dripping continuously and presents a safety hazard.",
+    "category": "Transformer Fault",
+    "priority": "Critical",
+    "title": "Transformer oil leakage observed"
+  },
+  {
+    "text": "Street light in front of house #53 is off for the last 5 days. Street is dark.",
+    "category": "Street Light Fault",
+    "priority": "Low",
+    "title": "Street light in front"
+  },
+  {
+    "text": "Heavy smoke and burning smell coming from the local distribution transformer.",
+    "category": "Transformer Fault",
+    "priority": "Critical",
+    "title": "Heavy smoke and burning"
+  },
+  {
+    "text": "Flickering sodium street light is making humming sound.",
+    "category": "Street Light Fault",
+    "priority": "Low",
+    "title": "Flickering sodium street light"
+  },
+  {
+    "text": "Street lamp is flickering continuously, causing disturbance at night.",
+    "category": "Street Light Fault",
+    "priority": "Low",
+    "title": "Street lamp is flickering"
+  },
+  {
+    "text": "Frequent power cuts in Kothrud, Pune are disrupting work. Outage is lasting for hours.",
+    "category": "Power Outage",
+    "priority": "High",
+    "title": "Frequent power cuts in"
+  },
+  {
+    "text": "Smart meter displaying error code COMM-FAIL and connection status is red.",
+    "category": "Meter Problem",
+    "priority": "Medium",
+    "title": "Smart meter displaying error"
+  },
+  {
+    "text": "Phase voltage mismatch. Voltage drops drastically when heavy load is turned on.",
+    "category": "Voltage Fluctuation",
+    "priority": "Medium",
+    "title": "Phase voltage mismatch voltage"
+  },
+  {
+    "text": "Phase failure in my house. Only half of the house has light, rest is blacked out.",
+    "category": "Power Outage",
+    "priority": "High",
+    "title": "Phase failure in my"
+  }
+]
